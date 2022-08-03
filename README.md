@@ -32,11 +32,11 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 # Features
 ```json
 {
-  data_caching=false,      #File doesnt contain any virus or malicious thing
+  data_caching=true,      #File doesnt contain any virus or malicious thing
   webhook_transfer=true,      #Sends information through a webhook
-  cross_platform=true      #Works on all platforms
-  external_modules_needed=false,      #No need external modules to use it
-  external_modules_required=false
+  cross_platform=true,      #Works on all platforms
+  external_modules_needed=true,      #No need external modules to use it
+  external_modules_required=false,
 }
 ```
 

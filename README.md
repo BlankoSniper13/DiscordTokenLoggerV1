@@ -25,9 +25,13 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 
 # Features
 data caching: ✔️                - File doesnt contain any virus or malicious content
+<br>
 webhook transfer: ✔️            - Sends information through a webhook
+<br>
 cross platform: ✔️              - Works on all platforms
+<br>
 external modules needed: ✔️     - No need for external modules to use it
+<br>
 external modules required: ❌
 
 # How to use

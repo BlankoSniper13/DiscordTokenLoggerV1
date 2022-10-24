@@ -1,0 +1,5 @@
+Crypto
+pywin32
+discord
+requests
+pycryptodome

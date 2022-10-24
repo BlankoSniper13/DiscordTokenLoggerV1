@@ -24,17 +24,17 @@ This project was created only for **good purposes** and **personal use**.
 By using **THIS SCRIPT**, you agree that you **hold responsibility** and accountability of any consequences caused by your actions.
 
 # Features
-```json
-{
-  data_caching=true,      #File doesnt contain any virus or malicious thing
-  webhook_transfer=true,      #Sends information through a webhook
-  cross_platform=true,      #Works on all platforms
-  external_modules_needed=true,      #No need external modules to use it
-  external_modules_required=false,
-}
-```
+data caching: ✔️                - File doesnt contain any virus or malicious content
+webhook transfer: ✔️            - Sends information through a webhook
+cross platform: ✔️              - Works on all platforms
+external modules needed: ✔️     - No need for external modules to use it
+external modules required: ❌
 
 # How to use
+
+Install the required modules
+``python -m pip install -r requirements.txt``
+
 ```python
  - Run main.py and wait until the logo pops up it should say DTLV1
  - Enter webhook
